@@ -11,7 +11,7 @@
 		 - Section Two - Gaining Access
 		 - Section Three - Post Exploitation
 		 - Section Four - Website/Web Application Hacking
-		 
+
 ## Success criteria </br>
 
  - My own understanding and certification on ethical hacking.
@@ -46,3 +46,4 @@ Weekly Chapters:
 6. Chapter Six: Website Hacking and Information (2 hours)</br> 
 7. Chapter Seven: Vulnerabilities in Website Hacking (1.5 hours)</br> 
 8. Chapter Eight: Bonus Section and Certification
+
