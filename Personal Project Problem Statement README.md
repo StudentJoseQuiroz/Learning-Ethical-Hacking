@@ -47,3 +47,4 @@ Weekly Chapters:
 7. Chapter Seven: Vulnerabilities in Website Hacking (1.5 hours)</br> 
 8. Chapter Eight: Bonus Section and Certification
 
+hi
